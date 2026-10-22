@@ -1474,5 +1474,39 @@
     "approved": true,
     "caption": "Our best backtest. Looks perfect.\n\n801 tests across 708 strategies. 0 passed once we counted how many we tried. The best one beat just holding by 5.8 points a year. On its own, luck does that about one time in 1,600. Across 801 tries, that is not rare. A pretty backtest is not proof.\n\nComment LUCK and we'll send the page.\n\ntickfloor.com/evidence\n\n#trading #backtesting #stocks #investing\n\nGeneral information, not personal advice.",
     "note": "Flip approved only after review-1022/pilots-v3/out/ship-jumpscare-801/QA.md reads SHIP: yes (Ship stage)."
+  },
+  {
+    "id": "2026-10-27-ticker-nvda",
+    "type": "reel",
+    "when": "2026-10-27T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-27-ticker-nvda.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-27-ticker-nvda-cover.jpg",
+    "approved": false,
+    "caption": "NVDA today. Leaning down.\n\nOn the last full trading day, 1 of Tickfloor's 10 indicators pointed up, 5 pointed down and 4 were flat. Five down minus one up gives a score of 4 out of 10, leaning down. It describes the chart and doesn't predict where it goes next.\n\nComment a ticker and we'll post its score.\n\ntickfloor.com\n\n#nvda #stocks #technicalanalysis #investingbasics\n\nGeneral information, not personal advice.",
+    "note": "Posting-day gate: run `cd ~/code/CLAUDEGLOBAL/.wt/integrate && node --import tsx ../../tickfloor-ig/review-1022/pilots-v3/out/ticker-nvda/reread.mjs nvda` the day it posts. Flip approved only if it prints SAME. CHANGED means the baked-in numbers are stale: new copy + VO + re-render (comp_ticker.py, mkaudio.py), not just a re-run. Rendered from the 21 Oct daily read. Audio: Drift Skunk (Company Money), track 35 / video 100, not yet test-published.",
+    "audio": {
+      "audio_id": "1039098790480932",
+      "audio_volume": 35,
+      "video_volume": 100
+    }
+  },
+  {
+    "id": "2026-10-28-ticker-btc",
+    "type": "reel",
+    "when": "2026-10-28T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-28-ticker-btc.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-28-ticker-btc-cover.jpg",
+    "approved": false,
+    "caption": "BTC today. Mixed.\n\nOn the last full day of trading, 3 of Tickfloor's 10 indicators pointed up, 1 pointed down and 6 were flat. Three up minus one down gives a score of 2 out of 10, so there's no clear direction. A mixed read still tells you something: most of the indicators have no view. It describes the chart and doesn't predict where it goes next.\n\nComment a ticker and we'll post its score.\n\ntickfloor.com\n\n#bitcoin #btc #crypto #technicalanalysis\n\nGeneral information, not personal advice.",
+    "note": "Posting-day gate: run `cd ~/code/CLAUDEGLOBAL/.wt/integrate && node --import tsx ../../tickfloor-ig/review-1022/pilots-v3/out/ticker-nvda/reread.mjs btc` the day it posts. Flip approved only if it prints SAME. CHANGED means the baked-in numbers are stale: new copy + VO + re-render (comp_ticker.py, mkaudio.py), not just a re-run. Rendered from the 21 Oct daily read. Audio: Data Corruption (Dustfield), track 35 / video 100, not yet test-published.",
+    "audio": {
+      "audio_id": "1722331465539212",
+      "audio_volume": 35,
+      "video_volume": 100
+    }
   }
 ]
