@@ -1435,8 +1435,9 @@
     "pin": false,
     "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-22-v3-balloon.mp4",
     "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-22-v3-balloon-cover.jpg",
-    "approved": true,
-    "caption": "You just watched a bullet for 7 seconds. Now the part that matters.\n\nThe opening-range breakout on Nasdaq futures won 90.4% of its trades in our test. It still lost money: -0.84 points a trade after costs, over 1,641 trades. A high win rate tells you nothing if the losers are bigger than the winners.\n\nWhat strategy should we put through the same test next? Comment it.\n\ntickfloor.com\n\n#trading #backtesting #daytrading #futures\n\nGeneral information, not personal advice."
+    "approved": false,
+    "caption": "You just watched a bullet for 7 seconds. Now the part that matters.\n\nThe opening-range breakout on Nasdaq futures won 90.4% of its trades in our test. It still lost money: -0.84 points a trade after costs, over 1,641 trades. A high win rate tells you nothing if the losers are bigger than the winners.\n\nWhat strategy should we put through the same test next? Comment it.\n\ntickfloor.com\n\n#trading #backtesting #daytrading #futures\n\nGeneral information, not personal advice.",
+    "note": "Un-approved 22 Oct 4:40pm per REELS.md P3 (P0): textless 7 s open, payoff at 10.3 s, -18.3 LUFS. Re-approve only on the owner's call."
   },
   {
     "id": "2026-10-22-v3-jumpscare",
@@ -1446,7 +1447,32 @@
     "pin": false,
     "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-22-v3-jumpscare.mp4",
     "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-22-v3-jumpscare-cover.jpg",
-    "approved": true,
-    "caption": "Our best backtest looked perfect. Then we checked how many we had tried.\n\nWe tested 708 trading strategies across 801 tests. The best one beat just holding by 5.8 points a year. After correcting for luck across every test we ran, 0 passed. That does not prove nothing works. It means a pretty backtest is not proof.\n\nHow many versions did you try before you trusted yours? Comment the number.\n\ntickfloor.com\n\n#trading #backtesting #stocks #investing\n\nGeneral information, not personal advice."
+    "approved": false,
+    "caption": "Our best backtest looked perfect. Then we checked how many we had tried.\n\nWe tested 708 trading strategies across 801 tests. The best one beat just holding by 5.8 points a year. After correcting for luck across every test we ran, 0 passed. That does not prove nothing works. It means a pretty backtest is not proof.\n\nHow many versions did you try before you trusted yours? Comment the number.\n\ntickfloor.com\n\n#trading #backtesting #stocks #investing\n\nGeneral information, not personal advice.",
+    "note": "Superseded by 2026-10-25-ship-jumpscare-801 (REELS.md P2 fixes)."
+  },
+  {
+    "id": "2026-10-23-ship-bullet-orb",
+    "type": "reel",
+    "when": "2026-10-23T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-23-ship-bullet-orb.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-23-ship-bullet-orb-cover.jpg",
+    "approved": false,
+    "caption": "90% win rate. Safe?\n\nThe opening-range breakout on Nasdaq futures won 90.4% of its 1,641 trades in our test and still lost 0.84 points a trade after costs. A high win rate tells you nothing if the losers are bigger than the winners.\n\nComment ORB and we'll send the full test.\n\ntickfloor.com/evidence\n\n#daytrading #backtesting #futures #tradingview\n\nGeneral information, not personal advice.",
+    "note": "Flip approved only after review-1022/pilots-v3/out/ship-bullet-orb/QA.md reads SHIP: yes and tickfloor.com/evidence#orb is live (Ship stage)."
+  },
+  {
+    "id": "2026-10-25-ship-jumpscare-801",
+    "type": "reel",
+    "when": "2026-10-25T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-25-ship-jumpscare-801.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-25-ship-jumpscare-801-cover.jpg",
+    "approved": false,
+    "caption": "Our best backtest. Looks perfect.\n\n801 tests across 708 strategies. 0 passed once we counted how many we tried. The best one beat just holding by 5.8 points a year. On its own, luck does that about one time in 1,600. Across 801 tries, that is not rare. A pretty backtest is not proof.\n\nComment LUCK and we'll send the page.\n\ntickfloor.com/evidence\n\n#trading #backtesting #stocks #investing\n\nGeneral information, not personal advice.",
+    "note": "Flip approved only after review-1022/pilots-v3/out/ship-jumpscare-801/QA.md reads SHIP: yes (Ship stage)."
   }
 ]
