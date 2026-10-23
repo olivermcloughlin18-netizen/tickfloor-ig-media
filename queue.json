@@ -1472,7 +1472,7 @@
     "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-25-ship-jumpscare-801.mp4",
     "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-25-ship-jumpscare-801-cover.jpg",
     "approved": true,
-    "caption": "Our best backtest. Looks perfect.\n\n801 tests across 708 strategies. 0 passed once we counted how many we tried. The best one beat just holding by 5.8 points a year. On its own, luck does that about one time in 1,600. Across 801 tries, that is not rare. A pretty backtest is not proof.\n\nComment LUCK and we'll send the page.\n\ntickfloor.com/evidence\n\n#trading #backtesting #stocks #investing\n\nGeneral information, not personal advice.",
+    "caption": "One backtest. Looks perfect.\n\n1,425 tests across 1,083 strategies. 0 passed once we counted how many we tried. The most convincing one beat just holding by 5.8 points a year (in-sample, not a promise). On its own, luck does that about one time in 1,600. Across 1,425 tries, that is not rare. A pretty backtest is not proof.\n\nComment LUCK and we'll send the page.\n\ntickfloor.com/evidence\n\n#trading #backtesting #stocks #investing\n\nGeneral information, not personal advice.",
     "note": "Flip approved only after review-1022/pilots-v3/out/ship-jumpscare-801/QA.md reads SHIP: yes (Ship stage)."
   },
   {
