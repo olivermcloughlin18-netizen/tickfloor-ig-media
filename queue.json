@@ -1524,6 +1524,7 @@
       "audio_id": "3967485076866016",
       "audio_volume": 100,
       "video_volume": 40
-    }
+    },
+    "audio_required": true
   }
 ]
