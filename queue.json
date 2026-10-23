@@ -1508,5 +1508,22 @@
       "audio_volume": 35,
       "video_volume": 100
     }
+  },
+  {
+    "id": "2026-10-25-larp-macd-rsi-jumpscare",
+    "type": "reel",
+    "when": "2026-10-25T07:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-25-larp-macd-rsi-jumpscare.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-25-larp-macd-rsi-jumpscare-cover.jpg",
+    "approved": true,
+    "caption": "73 to 90% win rate claimed online. We measured 30.6%.\n\nMACD plus RSI confluence is sold with a win rate of 73 to 90% (per QuantifiedStrategies and opofinance). Our reconstruction of the rule, net of costs across 252 trades, measured 30.6%. That is our version, not their exact one, and it is in-sample, not a promise. Across our 1,425 tests, 0 passed once we counted how many we tried.\n\nFree read, no account: tickfloor.com/try\n\n#macd #rsi #backtesting #tradingstrategy\n\nGeneral information, not personal advice.",
+    "note": "Larp reel (L2-macd-rsi-jumpscare, QA 9/10). The mp4 is SFX only, no music baked in: the library track Mech Aria (Global Genius) is the music, so nothing doubles. Cuts are timed to the track's hits at 1.47 s and 3.75 s. audio_volume 100 / video_volume 40 is the 0-100 API scale (1.0 / 0.4 would make the track near-silent). 24 Oct: a container with this audio_configuration reached FINISHED (not published) and a bogus audio_id errors, so the id is validated. Sound Collection track, trending rank unconfirmed. If Meta rejects the audio at post time ig.js falls back to the SFX-only mp4 (thuds, no music): after it posts, check the audio in the IG app.",
+    "audio": {
+      "audio_id": "3967485076866016",
+      "audio_volume": 100,
+      "video_volume": 40
+    }
   }
 ]
