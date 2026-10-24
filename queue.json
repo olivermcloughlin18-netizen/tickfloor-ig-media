@@ -1526,5 +1526,83 @@
       "video_volume": 40
     },
     "audio_required": true
+  },
+  {
+    "id": "2026-10-29-larp-pov-90-trusted",
+    "type": "reel",
+    "when": "2026-10-29T07:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-29-larp-pov-90-trusted.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-29-larp-pov-90-trusted-cover.jpg",
+    "approved": true,
+    "caption": "A 90.4% win rate on NQ, and the same backtest still comes out at -0.84 points a trade after costs. In-sample, not a promise. Across 1,083 strategies and 1,425 tests, 0 passed the pre-registered bar. Would you have trusted the 90.4%? The rules and every number are on tickfloor.com/research/claims/opening-range-breakout-81-percent. General information, not personal advice.",
+    "note": "Larp reel (L1-pov-90-trusted, QA 9.1/10). The mp4 is SFX only, no music baked in: the library track Impact Grid (Neon Avenue, 66 s) is the music, so nothing doubles. Hits at 0.05 / 3.92 / 7.79 / 11.66 s on a 124 bpm grid; the track starts at 0:00 and is cut at the 14 s reel end. 24 Oct: the id resolves as music for the @tickfloor token and was #5 in one 24 Oct chart pull, but chart rank is not stable (a later 25-row pull had none of our tracks), and the id is not test-published. audio_volume 100 / video_volume 40 is the 0-100 API scale. audio_required stops ig.js falling back to the SFX-only mp4.",
+    "audio": {
+      "audio_id": "1584327289802699",
+      "audio_volume": 100,
+      "video_volume": 40
+    },
+    "audio_required": true
+  },
+  {
+    "id": "2026-10-30-own-halloween-sell-in-may",
+    "type": "reel",
+    "when": "2026-10-30T07:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-30-own-halloween-sell-in-may.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-30-own-halloween-sell-in-may-cover.jpg",
+    "approved": true,
+    "caption": "Buy at Halloween? Sell in May, tested on QQQ standing in for SPY, 2005 to 2025: 6.6 percentage points a year behind the benchmark after costs, over 21 completed trades. In-sample, not a promise. 1,083 strategies, 1,425 tests, 0 passed. Free read at tickfloor.com/try\n\nGeneral information, not personal advice.",
+    "note": "Own reel (O5-halloween-sell-in-may, QA 9/10). Our own ACE-Step bed (bed-warm-minimal-piano-2) + SFX + kokoro am_michael end motto are baked in; no library audio. The bed and mix are measured (-14.0 LUFS, -1.4 dBTP) but NOT heard by a person (ear_confirmed false): give it a listen before 30 Oct 7:00am. Scheduled the day before Halloween on purpose (the hook is the 31 Oct buy date)."
+  },
+  {
+    "id": "2026-10-31-larp-ict-look-away",
+    "type": "reel",
+    "when": "2026-10-31T07:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-31-larp-ict-look-away.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-10-31-larp-ict-look-away-cover.jpg",
+    "approved": true,
+    "caption": "The ICT Asia sweep on 10,188 hourly crypto trades: -48.1% a year after costs, in the backtest. In-sample, not a promise.\n\nThe basket of the same 8 coins, which pays no costs: +84.7% a year. The sweep beat 0 of 200 copies placed at random times, and 0 of 1,057 sweep rules in our earlier study survived the multiple-test correction. This is the hourly crypto version, not the full ICT model.\n\nWould you still take it?\n\nTest it first at tickfloor.com. General information only, not personal advice.",
+    "note": "Larp reel (L3-ict-look-away, QA 9/10). SFX only, no music baked in: the library track Titan (Jim Hustwit, 67 s) is the music. The cut is timed to Titan only (hits 0.05 / 1.82 / 3.59 / 5.35 s, drop at 7.11 s, ~136 bpm), so do NOT swap in Data Corruption 1722331465539212 or the old id 2603949126473975. Titan was #12 of 60 in the 24 Oct 1:59am chart pull; a later 25-row pull did not list it (rank unstable), the id still resolves as music. audio_required stops a fallback to the SFX-only mp4. Not test-published.",
+    "audio": {
+      "audio_id": "912483768556020",
+      "audio_volume": 100,
+      "video_volume": 40
+    },
+    "audio_required": true
+  },
+  {
+    "id": "2026-11-01-own-uptober-dots",
+    "type": "reel",
+    "when": "2026-11-01T07:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-01-own-uptober-dots.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-01-own-uptober-dots-cover.jpg",
+    "approved": true,
+    "caption": "Own only October? In the backtest, holding 18 large crypto pairs only in October (cash the other 11 months) returned 9.2% a year after costs. The 18-coin basket returned 62.8%, so it ran 53.6 points a year behind. It still beat 70.0% of 200 random copies. In-sample, not a promise. 0 passed across 1,083 strategies and 1,425 tests. Free read, no account: tickfloor.com/try\n\nGeneral information, not personal advice.",
+    "note": "Own reel (O2-uptober-dots, QA 9/10). Our own ACE-Step bed (bed-downtempo-epiano-1) + SFX baked in; no library audio. Audio is measured (-14.0 LUFS, -3.1 dBTP) but NOT heard by a person (ear_confirmed false): give it a listen before 1 Nov 7:00am. Slotted on 1 Nov (not before 31 Oct) to keep the larp reels apart under the 1-post-a-day cap; the hook is a question about October, so it still reads."
+  },
+  {
+    "id": "2026-11-02-larp-tjr-24-trades",
+    "type": "reel",
+    "when": "2026-11-02T07:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-02-larp-tjr-24-trades.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-02-larp-tjr-24-trades-cover.jpg",
+    "approved": true,
+    "caption": "We tested the TJR liquidity sweep + fair value gap setup on 23 crypto pairs (5-minute candles, 2024-03-01 to 2025-03-01 discovery window). 24 trades: 1 reached its full target, 19 stopped out, 4 expired. Average -0.878R per trade after costs. In-sample, not a promise. Would you size up on that? Test it first. tickfloor.com\n\nGeneral information, not personal advice.",
+    "note": "Larp reel (L4-tjr-24-trades, QA 9/10). SFX only, no music baked in: the library track The Reckoning (150 s) is the music; drop at 6.675 s, post-drop cuts on its 0.476 s beat grid, card cut at 10.50 s. First round found it in the chart (#23), but a 24 Oct re-pull did not list it, so chart rank is unconfirmed; the id resolves as music for the @tickfloor token. audio_required stops a fallback to the SFX-only mp4. Not test-published.",
+    "audio": {
+      "audio_id": "3481739735408255",
+      "audio_volume": 100,
+      "video_volume": 40
+    },
+    "audio_required": true
   }
 ]
