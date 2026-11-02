@@ -1616,5 +1616,41 @@
     "approved": true,
     "caption": "We tested 1,342 trading strategies. 0 passed. 265 finished ahead of the benchmark on the raw number, then we corrected for luck and none held up. RSI 30/70, golden cross, MACD, Turnaround Tuesday, 9/21 EMA cross: all behind the benchmark after costs (backtests to 15 Mar 2025, in-sample, not a promise).\n\nName a strategy and we'll test it. Comment it below.\n\ntickfloor.com/evidence\n\n#trading #technicalanalysis #rsi #daytrading\n\nGeneral information, not personal advice.",
     "note": "VIRAL-1: 'I tested every strategy' format, 24.5 s, 1080x1920, -13.9 LUFS. Figures re-read live 2 Nov ~11pm from tickfloor.com/evidence (1,342 strategies, 265 ahead raw, 0 passed BH correction across 1,774 tests) and tickfloor.com/research-registry.json (per-strategy excessAnnual: RSI 30/70 US stocks -10.5, golden cross -6.5, MACD zero-line ETF -3.6, Turnaround Tuesday -9.5, 9/21 EMA 1h crypto -62.9 pts/yr). Hook says 'Zero passed', NOT 'none beat doing nothing' (265 beat the benchmark raw). Own bed bed-cinematic-build-1 + kokoro am_michael VO baked; no library audio. Owner watched it on his laptop and OK'd it 2 Nov ~11:59pm ('yeah reels fine'). Hook frame 0 is the real evidence page, dimmed. Files: tickfloor-ig/viral-1103/. Post file re-encoded to 14.8 MB (master 196 MB was over GitHub's 100 MB cap). Figures re-checked vs live registry 2 Nov 11:25pm."
+  },
+  {
+    "id": "2026-11-03-whatif-crash",
+    "type": "reel",
+    "when": "2026-11-06T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-crash.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-crash-cover.jpg",
+    "approved": true,
+    "caption": "What if the stock market crashed today? A scenario, not news and not a prediction.\n\nOn 19 Oct 1987 the Dow lost 22.6% in one day. Today, market-wide circuit breakers pause trading at 7% and 13% down (S&P 500) and close it for the day at 20%. In 2020 the S&P 500 fell 33.9% in about five weeks. In 2007 to 2009 it fell 56.8% over 17 months.\n\nTickfloor scores charts out of 10 and publishes its own failed tests: 1,342 strategies tested, 0 passed the corrected test (backtests to 15 Mar 2025, in-sample, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Black Monday 1987, Trading curb), Yahoo Finance S&P 500 daily closes.\n\n#stockmarket #marketcrash #investing #finance\n\nGeneral information, not personal advice.",
+    "note": "WHATIF-1 'What if the stock market crashed today?' 35.6 s. Ticking counter = loss %. 9:16 1080x1920, full-bleed, -14.3 LUFS, own ACE-Step bed (ace-piano1) + kokoro am_michael VO baked, no library audio. Scenario label on every frame, no predictions or calls. Every on-screen figure sourced in adforge/runs.nosync/2026-11-03-what-if/NOTES.md (live pulls 3 Nov 2026). Tickfloor claims re-read live tickfloor.com 3 Nov (1,342 tested, 0 passed corrected test, ten indicators). Ad-studio HTML QA N/A (PIL render); ran retention proxy 61/100 (accepted FAILs: no product UI by 3s by design, static counter holds 1.6-2.8s) plus contact-sheet check. Post file re-encoded ~10-11 MB (master 31-36 MB). Files: adforge/runs.nosync/2026-11-03-what-if/. TG msg 1862."
+  },
+  {
+    "id": "2026-11-03-whatif-top5",
+    "type": "reel",
+    "when": "2026-11-07T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-top5.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-top5-cover.jpg",
+    "approved": true,
+    "caption": "What if the five biggest companies went broke? A scenario, not news and not a prediction.\n\nApple, Nvidia, Microsoft, Alphabet and Amazon were worth about $19.7 trillion at the US close on 2 Nov 2026 and make up 27.9% of the S&P 500 (fund filing, Jun 2026). In a bankruptcy, the SEC says common stock is likely to be worthless because creditors are paid first. SIPC covers a broker failing, not a share price falling.\n\nTickfloor scores charts out of 10 and publishes its own failed tests: 1,342 strategies tested, 0 passed the corrected test (backtests to 15 Mar 2025, in-sample, not a promise). tickfloor.com/evidence\n\nSources: companiesmarketcap.com, ChartRow, SEC Investor.gov, SIPC.\n\n#stocks #bigtech #investing #finance\n\nGeneral information, not personal advice.",
+    "note": "WHATIF-2 'What if the top 5 biggest companies went broke?' 35.6 s. Ticking counter = $ trillion wiped (running total of 5 live market caps). 9:16 1080x1920, full-bleed, -14.3 LUFS, own ACE-Step bed (ace-house1) + kokoro am_michael VO baked, no library audio. Scenario label on every frame, no predictions or calls. Every on-screen figure sourced in adforge/runs.nosync/2026-11-03-what-if/NOTES.md (live pulls 3 Nov 2026). Tickfloor claims re-read live tickfloor.com 3 Nov (1,342 tested, 0 passed corrected test, ten indicators). Ad-studio HTML QA N/A (PIL render); ran retention proxy 68/100 (accepted FAILs: no product UI by 3s by design, static counter holds 1.6-2.8s) plus contact-sheet check. Post file re-encoded ~10-11 MB (master 31-36 MB). Files: adforge/runs.nosync/2026-11-03-what-if/. TG msg 1863."
+  },
+  {
+    "id": "2026-11-03-whatif-wall",
+    "type": "reel",
+    "when": "2026-11-08T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-wall.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-wall-cover.jpg",
+    "approved": false,
+    "caption": "What if Wall Street disappeared? A scenario, not news and not a prediction.\n\nAfter 9/11 US markets shut for four days and the Dow fell 7.1% on reopening (17 Sep 2001). In 1914 the NYSE kept stocks shut for 134 days. In March 2020 the trading floor closed and trading carried on, all electronic. If a broker fails, SIPC covers up to $500,000 including $250,000 cash, but not price falls.\n\nTickfloor scores charts out of 10 and publishes its own failed tests: 1,342 strategies tested, 0 passed the corrected test (backtests to 15 Mar 2025, in-sample, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (NYSE, 2020 stock market crash), Fox Business/AP, SIPC.\n\n#wallstreet #stockmarket #investing #finance\n\nGeneral information, not personal advice.",
+    "note": "WHATIF-3 'What if Wall Street disappeared?' 32.4 s. Ticking counter = days closed. NOT APPROVED: the 9/11 four-session closure and Dow -7.13% on 17 Sep 2001 are sourced only from press summaries found via search (Fox Business/AP/Benzinga), not an exchange or Fed page, and the SEC 'street name' source was not fetchable; verify, then flip approved. 9:16 1080x1920, full-bleed, -14.3 LUFS, own ACE-Step bed (ace-piano3) + kokoro am_michael VO baked, no library audio. Scenario label on every frame, no predictions or calls. Every on-screen figure sourced in adforge/runs.nosync/2026-11-03-what-if/NOTES.md (live pulls 3 Nov 2026). Tickfloor claims re-read live tickfloor.com 3 Nov (1,342 tested, 0 passed corrected test, ten indicators). Ad-studio HTML QA N/A (PIL render); ran retention proxy 71/100 (accepted FAILs: no product UI by 3s by design, static counter holds 1.6-2.8s) plus contact-sheet check. Post file re-encoded ~10-11 MB (master 31-36 MB). Files: adforge/runs.nosync/2026-11-03-what-if/. TG msg 1864."
   }
 ]
