@@ -1604,5 +1604,17 @@
       "video_volume": 40
     },
     "audio_required": true
+  },
+  {
+    "id": "2026-11-03-viral-1342-zero-passed",
+    "type": "reel",
+    "when": "2026-11-04T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-viral-1342-zero-passed.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-viral-1342-zero-passed-cover.jpg",
+    "approved": true,
+    "caption": "We tested 1,342 trading strategies. 0 passed. 265 finished ahead of the benchmark on the raw number, then we corrected for luck and none held up. RSI 30/70, golden cross, MACD, Turnaround Tuesday, 9/21 EMA cross: all behind the benchmark after costs (backtests to 15 Mar 2025, in-sample, not a promise).\n\nName a strategy and we'll test it. Comment it below.\n\ntickfloor.com/evidence\n\n#trading #technicalanalysis #rsi #daytrading\n\nGeneral information, not personal advice.",
+    "note": "VIRAL-1: 'I tested every strategy' format, 24.5 s, 1080x1920, -13.9 LUFS. Figures re-read live 2 Nov ~11pm from tickfloor.com/evidence (1,342 strategies, 265 ahead raw, 0 passed BH correction across 1,774 tests) and tickfloor.com/research-registry.json (per-strategy excessAnnual: RSI 30/70 US stocks -10.5, golden cross -6.5, MACD zero-line ETF -3.6, Turnaround Tuesday -9.5, 9/21 EMA 1h crypto -62.9 pts/yr). Hook says 'Zero passed', NOT 'none beat doing nothing' (265 beat the benchmark raw). Own bed bed-cinematic-build-1 + kokoro am_michael VO baked; no library audio. Owner watched it on his laptop and OK'd it 2 Nov ~11:59pm ('yeah reels fine'). Hook frame 0 is the real evidence page, dimmed. Files: tickfloor-ig/viral-1103/. Post file re-encoded to 14.8 MB (master 196 MB was over GitHub's 100 MB cap). Figures re-checked vs live registry 2 Nov 11:25pm."
   }
 ]
