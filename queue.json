@@ -2012,5 +2012,22 @@
     "caption": "What if a bank run returned after 150 years? A scenario, not news and not a prediction.\n\nOn 14 Sep 2007 many Northern Rock customers queued outside branches to withdraw their savings, in what Wikipedia calls the UK's first bank run in 150 years. An estimated £1 billion was withdrawn that day, and by Monday 17 Sep an estimated £2 billion had been withdrawn since the bank applied to the Bank of England for emergency funds. Later that day the Chancellor announced that the Government and the Bank of England would guarantee all deposits, and the bank was nationalised at 00:01 on 22 Feb 2008. Past results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Northern Rock, Nationalisation of Northern Rock).\n\n#northernrock #bankrun #finance #markets\n\nGeneral information, not personal advice.",
     "approved": true,
     "note": "v8 3 Nov: code-built three.js world (v2 pipeline), 9:16 1080x1920, kokoro VO + bed. 33.6 s, -14.3 LUFS. UK first bank run in 150 years, queues 14 Sep 2007, est. GBP1B that day, est. GBP2B by 17 Sep, deposits guaranteed 17 Sep, nationalised 00:01 22 Feb 2008. No share price. Facts in v8-northernrock."
+  },
+  {
+    "id": "2026-11-04-ticker-btc",
+    "type": "reel",
+    "when": "2026-11-04T10:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-04-ticker-btc.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-04-ticker-btc-cover.jpg",
+    "approved": true,
+    "caption": "BTC today. Leaning down.\n\nOn the last full day of trading, 0 of Tickfloor's 10 indicators pointed up, 8 pointed down and 2 were flat. Eight down minus zero up gives a score of 8 out of 10, leaning down. It describes the chart and doesn't predict where it goes next.\n\nComment a ticker and we'll post its score.\n\ntickfloor.com\n\n#bitcoin #btc #crypto #technicalanalysis\n\nGeneral information, not personal advice.",
+    "note": "Re-rendered 4 Nov 7am for the 2 Nov close: score -8, 0 up 8 down 2 flat; reread.mjs btc printed SAME after media push. Replaces pulled 2026-11-03-ticker-btc. BTC daily candle rolls at 11am AEDT, so 10:00am is the last slot where this read holds. Audio: Data Corruption (Dustfield), track 35 / video 100.",
+    "audio": {
+      "audio_id": "1722331465539212",
+      "audio_volume": 35,
+      "video_volume": 100
+    }
   }
 ]
