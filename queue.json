@@ -1500,9 +1500,9 @@
     "pin": false,
     "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-ticker-btc.mp4",
     "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-ticker-btc-cover.jpg",
-    "approved": true,
+    "approved": false,
     "caption": "BTC today. Leaning down.\n\nOn the last full day of trading, 0 of Tickfloor's 10 indicators pointed up, 7 pointed down and 3 were flat. Seven down minus zero up gives a score of 7 out of 10, leaning down. It describes the chart and doesn't predict where it goes next.\n\nComment a ticker and we'll post its score.\n\ntickfloor.com\n\n#bitcoin #btc #crypto #technicalanalysis\n\nGeneral information, not personal advice.",
-    "note": "Re-read and re-rendered 2 Nov 12:20pm (old 21 Oct read went stale: reread CHANGED). Score -7, 0 up 7 down 3 flat; reread.mjs btc printed SAME after media push. BTC daily candle rolls at 11am AEDT, so 10:00am 3 Nov is the last slot where the 1 Nov read holds.  Re-run reread.mjs on posting day. Audio: Data Corruption (Dustfield), track 35 / video 100, not yet test-published.",
+    "note": "Re-read and re-rendered 2 Nov 12:20pm (old 21 Oct read went stale: reread CHANGED). Score -7, 0 up 7 down 3 flat; reread.mjs btc printed SAME after media push. BTC daily candle rolls at 11am AEDT, so 10:00am 3 Nov is the last slot where the 1 Nov read holds.  Re-run reread.mjs on posting day. Audio: Data Corruption (Dustfield), track 35 / video 100, not yet test-published. PULLED 4 Nov 6:30am: reread.mjs CHANGED (score -7 -> -8, candle 0->-1 on 2 Nov close).",
     "audio": {
       "audio_id": "1722331465539212",
       "audio_volume": 35,
