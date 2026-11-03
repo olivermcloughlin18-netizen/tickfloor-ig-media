@@ -1959,11 +1959,11 @@
     "when": "2026-12-04T19:00",
     "ai_generated": false,
     "pin": false,
-    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-oil2020.mp4",
-    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-oil2020-cover.jpg",
-    "caption": "What if oil cost less than nothing? A scenario, not news and not a prediction.\n\nOn 20 Apr 2020 the May 2020 WTI crude oil futures contract closed at -$37.63 a barrel, while the June contract closed at $20.43. The price of WTI for May delivery fell below zero for the first time. This is a futures contract price, not what drivers pay at the pump. Past results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (West Texas Intermediate, 2020 Russia-Saudi Arabia oil price war).\n\n#oil #wti #crudeoil #finance\n\nGeneral information, not personal advice.",
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-oil2020-v9.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-oil2020-v9-cover.jpg",
+    "caption": "What if oil cost less than nothing? A scenario, not news and not a prediction.\n\nOn 20 Apr 2020 the May 2020 WTI crude oil futures contract closed at -$37.63 a barrel, while the June contract closed at $20.43. The price of WTI for May delivery fell below zero for the first time. This is a futures contract price, not what drivers pay at the pump.\n\nWould you take the barrels? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (West Texas Intermediate, 2020 Russia-Saudi Arabia oil price war).\n\nMusic: Hidden Agenda by Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#oil #wti #crudeoil #finance\n\nGeneral information, not personal advice.",
     "approved": true,
-    "note": "v8 3 Nov: code-built three.js world (v2 pipeline), 9:16 1080x1920, kokoro VO + bed. 31.9 s, -14.4 LUFS. WTI May 2020 futures closed -$37.63 on 20 Apr 2020, June contract $20.43; labelled a futures price, not a pump price. Facts in v8-oil2020; Yahoo CL=F cross-check pending (429)."
+    "note": "v9 4 Nov: three.js world, 9:16, kokoro am_michael VO + Hidden Agenda bed (option A: drone build, silence + hit on payoff), -14.4 LUFS. Facts in v9-oil9.md / v8-oil2020.md."
   },
   {
     "id": "2026-11-03-whatif-madoff",
@@ -1971,11 +1971,11 @@
     "when": "2026-12-05T19:00",
     "ai_generated": false,
     "pin": false,
-    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-madoff.mp4",
-    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-madoff-cover.jpg",
-    "caption": "What if $65 billion was mostly not there? A scenario, not news and not a prediction.\n\nMadoff's firm issued statements for November 2008 showing about $65 billion across about 4,800 client accounts, which actually \"held only a small fraction\" of that balance. Prosecutors estimated the size of the fraud at $64.8 billion, based on the amounts in those accounts as of 30 Nov 2008. One Madoff fund reported a 10.5% annual return over the previous 17 years, and at the end of November 2008 it reported being up 5.6% while the S&P 500 was down 38% for the year to date. Past results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Madoff investment scandal).\n\n#madoff #ponzi #finance #markets\n\nGeneral information, not personal advice.",
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-madoff-v9.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-madoff-v9-cover.jpg",
+    "caption": "What if $65 billion was mostly not there? A scenario, not news and not a prediction.\n\nMadoff's firm issued statements for November 2008 showing about $65 billion across about 4,800 client accounts, which actually \"held only a small fraction\" of that balance. One Madoff fund reported a 10.5% annual return over the previous 17 years, and at the end of November 2008 it reported being up 5.6% while the S&P 500 was down 38% for the year to date.\n\nWould steady returns have fooled you? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Madoff investment scandal).\n\nMusic: Hidden Agenda by Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#madoff #ponzi #finance #markets\n\nGeneral information, not personal advice.",
     "approved": true,
-    "note": "v8 3 Nov: code-built three.js world (v2 pipeline), 9:16 1080x1920, kokoro VO + bed. 32.7 s, -14.3 LUFS. Statements for Nov 2008 showed about $65B across about 4,800 accounts, \"held only a small fraction\"; one fund 10.5%/yr over 17 yrs, +5.6% vs S&P -38% YTD end Nov 2008. $64.8B (prosecutors) caption only. Facts in v8-madoff."
+    "note": "v9 4 Nov: three.js world, 9:16, kokoro am_michael VO + Hidden Agenda bed (option A: drone build, silence + hit on payoff), -14.4 LUFS. Facts in v9-madoff9.md / v8-madoff.md."
   },
   {
     "id": "2026-11-03-whatif-zimbabwe",
@@ -1983,11 +1983,11 @@
     "when": "2026-12-06T19:00",
     "ai_generated": false,
     "pin": false,
-    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-zimbabwe.mp4",
-    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-zimbabwe-cover.jpg",
-    "caption": "What if Z$100 trillion couldn't pay a bus fare? A scenario, not news and not a prediction.\n\nZimbabwe redenominated its currency three times: in August 2006 it cut three zeros, in July 2008 ten zeros (Z$10 billion became Z$1), and in February 2009 twelve more. The largest banknote was Z$100 trillion, and at the height of the inflation it could not pay for a simple bus fare. Past results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Hyperinflation in Zimbabwe).\n\n#zimbabwe #hyperinflation #history #finance\n\nGeneral information, not personal advice.",
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-zimbabwe-v9.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-zimbabwe-v9-cover.jpg",
+    "caption": "What if $100 trillion couldn't pay a bus fare? A scenario, not news and not a prediction.\n\nZimbabwe redenominated its currency three times: in August 2006 it cut three zeros, in July 2008 ten zeros (Z$10 billion became Z$1), and in February 2009 twelve more. The largest banknote was Z$100 trillion, and at the height of the hyperinflation a $100 trillion banknote could not pay for a simple bus fare.\n\nWould you keep the note? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Hyperinflation in Zimbabwe).\n\nMusic: Hidden Agenda by Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#zimbabwe #hyperinflation #history #finance\n\nGeneral information, not personal advice.",
     "approved": true,
-    "note": "v8 3 Nov: code-built three.js world (v2 pipeline), 9:16 1080x1920, kokoro VO + bed. 29.7 s, -14.3 LUFS. Redenominations Aug 2006 (3 zeros), Jul 2008 (10), Feb 2009 (12); Z$100T note could not pay a bus fare at the peak. No inflation rate. Facts in v8-zimbabwe."
+    "note": "v9 4 Nov: three.js world, 9:16, kokoro am_michael VO + Hidden Agenda bed (option A: drone build, silence + hit on payoff), -14.4 LUFS. Facts in v9-zim9.md / v8-zimbabwe.md."
   },
   {
     "id": "2026-11-03-whatif-mtgox",
@@ -1995,11 +1995,11 @@
     "when": "2026-12-07T19:00",
     "ai_generated": false,
     "pin": false,
-    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-mtgox.mp4",
-    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-mtgox-cover.jpg",
-    "caption": "What if 850,000 bitcoins just disappeared? A scenario, not news and not a prediction.\n\nBy early 2014 the Mt. Gox exchange in Tokyo was handling over 70% of all bitcoin transactions worldwide. It halted withdrawals on 7 Feb 2014, suspended all trading on 24 Feb and filed for bankruptcy protection on 28 Feb. About 850,000 bitcoins were reported lost; on 20 Mar the firm said it had found 200,000 of them, leaving 650,000. Past results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Mt. Gox).\n\n#mtgox #bitcoin #crypto #finance\n\nGeneral information, not personal advice.",
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-mtgox-v9.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-mtgox-v9-cover.jpg",
+    "caption": "What if 850,000 bitcoins just disappeared? A scenario, not news and not a prediction.\n\nBy early 2014 the Mt. Gox exchange in Tokyo was handling over 70% of all bitcoin transactions worldwide. It halted withdrawals on 7 Feb 2014, suspended all trading on 24 Feb and filed for bankruptcy protection on 28 Feb. About 850,000 bitcoins were reported lost; on 20 Mar the firm said it had found 200,000 of them, leaving 650,000.\n\nWould you have left your coins there? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Mt. Gox).\n\nMusic: Hidden Agenda by Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#mtgox #bitcoin #crypto #finance\n\nGeneral information, not personal advice.",
     "approved": true,
-    "note": "v8 3 Nov: code-built three.js world (v2 pipeline), 9:16 1080x1920, kokoro VO + bed. 34.3 s, -14.2 LUFS. Over 70% of bitcoin transactions by early 2014; withdrawals halted 7 Feb, trading suspended 24 Feb, bankruptcy filed 28 Feb 2014; 850,000 lost, 200,000 found 20 Mar, 650,000 missing. No $ or names. Facts in v8-mtgox."
+    "note": "v9 4 Nov: three.js world, 9:16, kokoro am_michael VO + Hidden Agenda bed (option A: drone build, silence + hit on payoff), -14.4 LUFS. Facts in v9-gox9.md / v8-mtgox.md."
   },
   {
     "id": "2026-11-03-whatif-northernrock",
@@ -2007,11 +2007,11 @@
     "when": "2026-12-08T19:00",
     "ai_generated": false,
     "pin": false,
-    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-northernrock.mp4",
-    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-northernrock-cover.jpg",
-    "caption": "What if a bank run returned after 150 years? A scenario, not news and not a prediction.\n\nOn 14 Sep 2007 many Northern Rock customers queued outside branches to withdraw their savings, in what Wikipedia calls the UK's first bank run in 150 years. An estimated £1 billion was withdrawn that day, and by Monday 17 Sep an estimated £2 billion had been withdrawn since the bank applied to the Bank of England for emergency funds. Later that day the Chancellor announced that the Government and the Bank of England would guarantee all deposits, and the bank was nationalised at 00:01 on 22 Feb 2008. Past results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Northern Rock, Nationalisation of Northern Rock).\n\n#northernrock #bankrun #finance #markets\n\nGeneral information, not personal advice.",
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-northernrock-v9.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-03-whatif-northernrock-v9-cover.jpg",
+    "caption": "What if a bank run came back after 150 years? A scenario, not news and not a prediction.\n\nOn 14 Sep 2007 many Northern Rock customers queued outside branches to withdraw their savings, in what Wikipedia calls the UK's first bank run in 150 years. An estimated £1 billion was withdrawn that day, and by Monday 17 Sep an estimated £2 billion had been withdrawn since the bank applied to the Bank of England for emergency funds. Later that day the Chancellor announced that the Government and the Bank of England would guarantee all deposits, and the bank was nationalised at 00:01 on 22 Feb 2008.\n\nWould you have queued? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: 1,342 strategies tested, 0 met the threshold after correcting across 1,774 tests (backtest data to 15 Mar 2025; past results, not a promise). tickfloor.com/evidence\n\nSources: Wikipedia (Northern Rock, Nationalisation of Northern Rock).\n\nMusic: Hidden Agenda by Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#northernrock #bankrun #finance #markets\n\nGeneral information, not personal advice.",
     "approved": true,
-    "note": "v8 3 Nov: code-built three.js world (v2 pipeline), 9:16 1080x1920, kokoro VO + bed. 33.6 s, -14.3 LUFS. UK first bank run in 150 years, queues 14 Sep 2007, est. GBP1B that day, est. GBP2B by 17 Sep, deposits guaranteed 17 Sep, nationalised 00:01 22 Feb 2008. No share price. Facts in v8-northernrock."
+    "note": "v9 4 Nov: three.js world, 9:16, kokoro am_michael VO + Hidden Agenda bed (option A: drone build, silence + hit on payoff), -14.4 LUFS. Facts in v9-nr9.md / v8-northernrock.md."
   },
   {
     "id": "2026-11-04-ticker-btc",
