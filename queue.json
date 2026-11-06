@@ -2065,5 +2065,41 @@
     "caption": "What if a stock market lost 12.4% in one day? A scenario, not news and not a prediction.\n\nOn Mon 5 Aug 2024 Japan's Nikkei 225 closed down 12.4%, a record fall in points (4,451.28 points to 31,458.42). The next day, Tue 6 Aug, it closed up 10.2% at 34,675.46, a gain of 3,217.04 points. By our arithmetic that is about 72% of the points lost the day before.\n\nWould you have stayed in? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Reuters via Daily Sabah (6 Aug 2024), AP via Fortune (6 Aug 2024), Inquirer / RTHK (5 Aug 2024), Yahoo Finance ^N225 daily closes.\n\n#nikkei #japan #finance #markets\n\nGeneral information, not personal advice.",
     "approved": true,
     "note": "v10 6 Nov (Nikkei 5 Aug 2024): v9 format, edge-tts en-AU-WilliamMultilingualNeural VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-nikkei.md. Owner standing yes 6 Nov 10:05am."
+  },
+  {
+    "id": "2026-11-06-whatif-knight10",
+    "type": "reel",
+    "when": "2026-11-17T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-knight10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-knight10-cover.jpg",
+    "caption": "What if 212 orders became 4 million? A scenario, not news and not a prediction.\n\nOn 1 Aug 2012 a Knight Capital router was meant to fill 212 customer orders. According to the SEC, it sent more than 4 million orders into the market in the first 45 minutes after the open. Knight later agreed to pay $12 million to settle the SEC's charges.\n\nWould you have pulled the plug? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: SEC press release 2013-222 (16 Oct 2013), WilmerHale client alert on the SEC settlement, Wikipedia (Knight Capital Group).\n\n#knightcapital #algotrading #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": true,
+    "note": "v10 6 Nov (Knight Capital 2012): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-knight10.md. Owner standing yes 6 Nov 10:05am."
+  },
+  {
+    "id": "2026-11-06-whatif-wirecard10",
+    "type": "reel",
+    "when": "2026-11-18T09:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-wirecard10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-wirecard10-cover.jpg",
+    "caption": "What if €1.9 billion in cash did not exist? A scenario, not news and not a prediction.\n\nIn June 2020 Wirecard's auditor EY could not confirm €1.9 billion of cash balances, about a quarter of the company's assets. On 22 Jun 2020 Wirecard said there was a prevailing likelihood the balances did not exist, and on 25 Jun 2020 it filed for insolvency.\n\nTrusted the audit or checked the bank yourself? Comment TRUST or CHECK.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Al Jazeera (22 Jun 2020), CNBC (22 and 25 Jun 2020), Wikipedia (Wirecard).\n\n#wirecard #finance #markets #accounting\n\nGeneral information, not personal advice.",
+    "approved": true,
+    "note": "v10 6 Nov (Wirecard 2020; either/or comment-prompt test (TRUST or CHECK) vs the plain prompt on knight10/black87): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-wirecard10.md. Owner standing yes 6 Nov 10:05am."
+  },
+  {
+    "id": "2026-11-06-whatif-black87",
+    "type": "reel",
+    "when": "2026-11-18T13:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-black87.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-black87-cover.jpg",
+    "caption": "What if the Dow lost 22.6% in one day? A scenario, not news and not a prediction.\n\nOn Monday 19 Oct 1987 the Dow Jones Industrial Average fell 508 points, or 22.6 percent, in a single trading session. The day is known as Black Monday.\n\nWould you have picked up the phone? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Federal Reserve History (Stock Market Crash of 1987), Wikipedia (Black Monday 1987), Encyclopedia.com.\n\n#blackmonday #dowjones #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": true,
+    "note": "v10 6 Nov (Black Monday 1987): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-black87.md. Owner standing yes 6 Nov 10:05am."
   }
 ]
