@@ -2029,5 +2029,41 @@
       "audio_volume": 35,
       "video_volume": 100
     }
+  },
+  {
+    "id": "2026-11-06-whatif-bear10",
+    "type": "reel",
+    "when": "2026-11-16T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-bear10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-bear10-cover.jpg",
+    "caption": "What if a bank trading at $30 sold for $2? A scenario, not news and not a prediction.\n\nBear Stearns shares closed at $30 on Friday 14 Mar 2008. On Sunday 16 Mar JPMorgan Chase announced a deal to acquire the firm at $2 a share. On 24 Mar 2008 the offer was amended to an implied value of approximately $10 per share, based on JPMorgan's 20 Mar close.\n\nWould you have held on? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: SEC filing of the JPMorgan Chase and Bear Stearns joint press release (24 Mar 2008), Wikipedia (Bear Stearns), domain-b.com (17 Mar 2008).\n\n#bearstearns #jpmorgan #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": true,
+    "note": "v10 6 Nov (Bear Stearns 2008): v9 format, edge-tts en-AU-WilliamMultilingualNeural VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-bear.md. Owner standing yes 6 Nov 10:05am."
+  },
+  {
+    "id": "2026-11-06-whatif-cs10",
+    "type": "reel",
+    "when": "2026-11-17T09:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-cs10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-cs10-cover.jpg",
+    "caption": "What if a 167-year-old bank sold for CHF 3 billion? A scenario, not news and not a prediction.\n\nOn 19 Mar 2023 UBS agreed to take over Credit Suisse, founded in 1856, in an all-share deal worth CHF 3 billion, with the Swiss government, regulator FINMA and the Swiss National Bank backing it. FINMA said the support would trigger a complete write-down of about CHF 16 billion of Credit Suisse AT1 bonds. UBS completed the takeover on 12 Jun 2023.\n\nWould you have kept your money there? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: FINMA media release (19 Mar 2023), Wikipedia (Acquisition of Credit Suisse by UBS), Lenz & Staehelin (20 Mar 2023), The TRADE (Mar 2023).\n\n#creditsuisse #ubs #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": true,
+    "note": "v10 6 Nov (Credit Suisse 2023): v9 format, edge-tts en-AU-WilliamMultilingualNeural VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-cs.md. Owner standing yes 6 Nov 10:05am."
+  },
+  {
+    "id": "2026-11-06-whatif-nikkei10",
+    "type": "reel",
+    "when": "2026-11-17T13:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-nikkei10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-06-whatif-nikkei10-cover.jpg",
+    "caption": "What if a stock market lost 12.4% in one day? A scenario, not news and not a prediction.\n\nOn Mon 5 Aug 2024 Japan's Nikkei 225 closed down 12.4%, a record fall in points (4,451.28 points to 31,458.42). The next day, Tue 6 Aug, it closed up 10.2% at 34,675.46, a gain of 3,217.04 points. By our arithmetic that is about 72% of the points lost the day before.\n\nWould you have stayed in? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Reuters via Daily Sabah (6 Aug 2024), AP via Fortune (6 Aug 2024), Inquirer / RTHK (5 Aug 2024), Yahoo Finance ^N225 daily closes.\n\n#nikkei #japan #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": true,
+    "note": "v10 6 Nov (Nikkei 5 Aug 2024): v9 format, edge-tts en-AU-WilliamMultilingualNeural VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-nikkei.md. Owner standing yes 6 Nov 10:05am."
   }
 ]
