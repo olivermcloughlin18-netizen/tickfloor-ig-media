@@ -2101,5 +2101,41 @@
     "caption": "What if the Dow lost 22.6% in one day? A scenario, not news and not a prediction.\n\nOn Monday 19 Oct 1987 the Dow Jones Industrial Average fell 508 points, or 22.6 percent, in a single trading session. The day is known as Black Monday.\n\nWould you have picked up the phone? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Federal Reserve History (Stock Market Crash of 1987), Wikipedia (Black Monday 1987), Encyclopedia.com.\n\n#blackmonday #dowjones #finance #markets\n\nGeneral information, not personal advice.",
     "approved": true,
     "note": "v10 6 Nov (Black Monday 1987): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-black87.md. Owner standing yes 6 Nov 10:05am."
+  },
+  {
+    "id": "2026-11-07-whatif-kerviel10",
+    "type": "reel",
+    "when": "2026-11-18T19:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-07-whatif-kerviel10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-07-whatif-kerviel10-cover.jpg",
+    "caption": "What if one trader lost €4.9 billion? A scenario, not news and not a prediction.\n\nOn 24 Jan 2008 the French bank Société Générale said it had uncovered a fraud that resulted in losses of €4.9 billion, and the same day filed a police complaint against the trader involved.\n\nWould you have caught it? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Guinness World Records (largest fraud by a rogue trader), Wikipedia (2008 Société Générale trading loss).\n\n#societegenerale #finance #markets #banking\n\nGeneral information, not personal advice.",
+    "approved": false,
+    "note": "v10 7 Nov (Societe Generale 2008): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-kerviel10.md. Staged approved:false; publishing approval is the owner's."
+  },
+  {
+    "id": "2026-11-07-whatif-baht10",
+    "type": "reel",
+    "when": "2026-11-19T09:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-07-whatif-baht10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-07-whatif-baht10-cover.jpg",
+    "caption": "What if a dollar cost 25 baht, then over 50? A scenario, not news and not a prediction.\n\nOn 2 Jul 1997 the Bank of Thailand announced the floating of the baht, which had been fixed at 25 baht per US dollar. Within months a dollar cost more than 50 baht, so the baht had lost more than half its dollar value.\n\nWould you have moved first? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: Thairath English, Bangkok Post, Wikipedia (1997 Asian financial crisis), The Morning.\n\n#thaibaht #asiancrisis #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": false,
+    "note": "v10 7 Nov (Thai baht float 1997): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-baht10.md. Staged approved:false; publishing approval is the owner's."
+  },
+  {
+    "id": "2026-11-07-whatif-whale10",
+    "type": "reel",
+    "when": "2026-11-19T13:00",
+    "ai_generated": false,
+    "pin": false,
+    "video_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-07-whatif-whale10.mp4",
+    "cover_url": "https://olivermcloughlin18-netizen.github.io/tickfloor-ig-media/2026-11-07-whatif-whale10-cover.jpg",
+    "caption": "What if a bank lost $6.2 billion on trades? A scenario, not news and not a prediction.\n\nIn May 2012 JPMorgan Chase disclosed problems with a trading strategy. The bank later said it lost $6.2 billion from the trades, nicknamed the London Whale, and a Senate panel investigated.\n\nWould you have seen it coming? Tell us below.\n\nPast results, not a forecast.\n\nTickfloor scores each stock or coin out of 10 from ten chart checks and publishes its own failed tests: none of the strategies it has tested passed the corrected test (past results, not a promise). Current counts at tickfloor.com/evidence\n\nSources: CNBC (Senate hearing report), Wikipedia (2012 JPMorgan Chase trading loss).\n\n#jpmorgan #londonwhale #finance #markets\n\nGeneral information, not personal advice.",
+    "approved": false,
+    "note": "v10 7 Nov (JPMorgan London Whale 2012): v9 format, edge-tts William VO, -14 LUFS, end card 'NONE PASSED' with no count. Facts in adforge/runs.nosync/2026-11-03-what-if/v10-whale10.md. Staged approved:false; publishing approval is the owner's."
   }
 ]
