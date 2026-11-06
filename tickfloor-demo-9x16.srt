@@ -1,0 +1,27 @@
+1
+00:00:00,200 --> 00:00:04,310
+We've tested 1,346 trading rules, in public.
+
+2
+00:00:04,870 --> 00:00:06,520
+None of them passed the luck check.
+
+3
+00:00:07,600 --> 00:00:11,100
+Pick any stock or coin, and ten chart checks give it one score.
+
+4
+00:00:11,640 --> 00:00:14,610
+It describes today's chart, not tomorrow's price.
+
+5
+00:00:15,300 --> 00:00:18,230
+Each forecast shows how often its range has held.
+
+6
+00:00:20,690 --> 00:00:21,360
+Tickfloor.
+
+7
+00:00:21,960 --> 00:00:22,980
+Test it first.

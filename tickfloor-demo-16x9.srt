@@ -1,0 +1,51 @@
+1
+00:00:04,200 --> 00:00:08,310
+We've tested 1,346 trading rules, in public.
+
+2
+00:00:08,870 --> 00:00:10,520
+None of them passed the luck check.
+
+3
+00:00:12,850 --> 00:00:15,810
+Every result is published, failures included.
+
+4
+00:00:18,600 --> 00:00:22,100
+Pick any stock or coin, and ten chart checks give it one score.
+
+5
+00:00:22,640 --> 00:00:25,610
+It describes today's chart, not tomorrow's price.
+
+6
+00:00:29,650 --> 00:00:31,680
+Plans are sized to the risk you set,
+
+7
+00:00:33,550 --> 00:00:36,400
+and forecasts show how often their range has held.
+
+8
+00:00:39,950 --> 00:00:42,370
+New rules are locked in before a single result,
+
+9
+00:00:42,750 --> 00:00:43,970
+then scored in public.
+
+10
+00:00:46,750 --> 00:00:47,910
+Learn the basics,
+
+11
+00:00:52,350 --> 00:00:54,080
+then practise with paper money.
+
+12
+00:01:08,300 --> 00:01:08,970
+Tickfloor.
+
+13
+00:01:09,570 --> 00:01:10,590
+Test it first.
